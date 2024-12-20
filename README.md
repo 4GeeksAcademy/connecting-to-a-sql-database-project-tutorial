@@ -9,6 +9,8 @@
 
 Inside this repository, you will find a file called `./INSTRUCTIONS.md` with the steps needed to complete it.
 
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱 How to start this project
 
 This project comes with the necessary files to start working immediately.
@@ -24,6 +26,8 @@ https://github.com/4GeeksAcademy/connecting-to-a-sql-database-project-tutorial
 **👉 Please follow these steps on** [how to start a coding project](https://4geeks.com/lesson/how-to-start-a-project).
 
 Once your project and code have finished opening, you can go ahead and open the `app.py` file and start solving each exercise inside the notebook.
+
+</onlyfor>
 
 ## 🚛 How to deliver this project
 
