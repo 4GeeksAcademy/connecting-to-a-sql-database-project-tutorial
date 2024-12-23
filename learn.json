@@ -12,6 +12,9 @@
 	"technologies": ["sql", "mysql", "postgresql", "sqlalchemy", "psycopg2", "pandas", "dotenv", "machine learning", "data science", "back-end", "databases", "python"],
 	"difficulty": "beginner",
 	"syntax": "python",
+	"template_url": "self",
+	"projectType": "project",
+	"autoPlay": "false",
 	"duration" : 2,
 	"description" : {
 		"us": "Create a SQL database using the PostgreSQL engine and using a professional python project structure that includes PIP and environment variables.",
